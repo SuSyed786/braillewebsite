@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+.container {
+    text-align: center;
+}
+
+#textInput {
+    width: 300px;
+    height: 100px;
+    margin-bottom: 10px;
+}
+
+#morseOutput {
+    margin-top: 10px;
+    font-weight: bold;
+}
